@@ -11,6 +11,7 @@ NEO-M8T в одно и то же время и антенны выдает не�
 ![](./gal_all_ok.jpg)
 ![](./beyd_all_ok.jpg)
 ![](./glo_no_chl_corr.jpg)
+![](./glo_all_ok.jpg)
 ![](./gps_iono_off.jpg)
 ![](./gal_iono_off.jpg)
 ![](./glo_iono_off.jpg)
@@ -18,3 +19,7 @@ NEO-M8T в одно и то же время и антенны выдает не�
 ![](./gps_tropo_off.jpg)
 ![](./glo_tropo_off.jpg)
 ![](./glo_sun_moon_correction_off.jpg)
+![](./gps_relativity_correction_off.jpg)
+![](./gal_relativity_correction_off.jpg)
+![](./glo_relativity_correction_off.jpg)
+
