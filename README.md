@@ -8,3 +8,13 @@ NEO-M8T в одно и то же время и антенны выдает не�
 В условиях когда возможны переотражения, например, городские улицы, ошибка может быть и 300 метров и более.
 ![](./gps_300m.jpg)
 ![](./gps_all_ok.jpg)
+![](./gal_all_ok.jpg)
+![](./beyd_all_ok.jpg)
+![](./glo_no_chl_corr.jpg)
+![](./gps_iono_off.jpg)
+![](./gal_iono_off.jpg)
+![](./glo_iono_off.jpg)
+![](./gal_tropo_off.jpg)
+![](./gps_tropo_off.jpg)
+![](./glo_tropo_off.jpg)
+![](./glo_sun_moon_correction_off.jpg)
