@@ -58,6 +58,11 @@ NEO-M8T может принимать и BEIDOU. Поскольку больши
 ![](./gal_tropo_off.jpg)
 ![](./gps_tropo_off.jpg)
 ![](./glo_tropo_off.jpg)
+
+### Выключим поправку на Луну и Солнце в GLONASS .
+Эфиремиды в GLONASS весьма просты по отношению GPS. Передается вектор положения спутника, вектор скорости и 
+вектор ускорения вызванный Луной и Солнцем. Как видим влияние Луны и Солнца на спутники весьма мало, оно нич
+
 ![](./glo_sun_moon_correction_off.jpg)
 ![](./gps_relativity_correction_off.jpg)
 ![](./gal_relativity_correction_off.jpg)
