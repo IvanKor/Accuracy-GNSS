@@ -8,6 +8,7 @@
 ![](https://raw.githubusercontent.com/IvanKor/hrfGPS/master/outpu5_2_mhz2.jpg)
 
 Запись "сырых данных" (RAWX) на открытой местности неподвижно в течении 1ч 50 мин с частотой 5Hz  находится в файле quadrifilar_backfire_helix_antenna.zip (4 части).
+
 В условиях когда возможны переотражения, например, городские улицы, ошибка может быть и 300 метров и более.
 ![](./gps_300m.jpg)
 ![](./gps_all_ok.jpg)
