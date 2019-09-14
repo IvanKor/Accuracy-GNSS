@@ -18,8 +18,10 @@ Ionosphere  Correction : Broadcast (идет со спутников)
 Troposphere Correction : Saastamoinen (одна из моделей тропосферы)
 получим для GPS за 1ч 50 мин наблюдения  RMS ~ 0.4 метра, что всего в 4 раза больше против GPS signal simulator случая.
 ![](./gps_all_ok.jpg)
+
 Сигналы со спутников GALILEO идут на той же частоте что и GPS с уровнем на ~ 5dB меньше, меньше и количество спутников GALILEO,
 отсюда RMS у GALILEO больше.
+
 ![](./gal_all_ok.jpg)
 ![](./beyd_all_ok.jpg)
 ![](./glo_no_chl_corr.jpg)
